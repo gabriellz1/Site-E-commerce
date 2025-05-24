@@ -3,15 +3,6 @@ import Navbar from './components/NavBar.vue'
 import HeroBanner from './components/HeroBanner.vue'
 import BrandStrip from './components/BrandStrip.vue'
 import NewArrivals from './components/NewArrivals.vue'
-
-export default {
-  components: {
-    Navbar,
-    HeroBanner,
-    BrandStrip,
-    NewArrivals
-  }
-}
 </script>
 
 <template>
