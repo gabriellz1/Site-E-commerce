@@ -1,5 +1,1 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Este repositório contém o projeto de desenvolvimento de um site E-commerce criado como parte do curso de Desenvolvimento de Sistemas. O objetivo principal é reconstruir um layout criado no Figma e transformá-lo em um site totalmente funcional, com todas as principais funcionalidades de uma loja virtual.
